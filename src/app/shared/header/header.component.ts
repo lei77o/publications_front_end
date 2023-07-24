@@ -9,6 +9,12 @@ import { Component } from '@angular/core';
 })
 export class HeaderComponent {
 
+  menuItems: any;
+
   constructor(  ) { }
+
+  logout(){
+
+  }
 
 }
